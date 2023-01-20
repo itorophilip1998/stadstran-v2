@@ -1,6 +1,4 @@
-/*eslint-disable*/
-
-
+/*eslint-disable*/ 
 import React from "react";
 import UserNavbar from "../../AppComponents/UserComp/UserNavbar";
 import {
