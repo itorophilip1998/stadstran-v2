@@ -1,0 +1,84 @@
+.waiterbody {
+  background-color: #b5cdd9 !important;
+  height: 100%;
+}
+
+.waiterbody2 {
+  background-color: #b5cdd9 !important;
+  height: 100vh;
+}
+
+.waiterBrandPagebody {
+  background-color: #ffffff !important;
+  color: black !important;
+  height: 100vh;
+}
+
+.cardAlignMiddle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  border: none !important;
+}
+
+.iconButton {
+  background-color: #ffffff;
+  border: none;
+}
+
+.iconButton2 {
+  background-color: #39729b;
+  border: none;
+  margin-top: 5px;
+  color: white;
+}
+
+.subCatIcon {
+  background: #39729b;
+  padding: 10px;
+  width: 115px;
+  height: 95px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 2em 3em;
+  border-bottom-right-radius: 2em 3em;
+  border-bottom-left-radius: 2em 3em;
+}
+
+.subCatIcon p {
+  text-align: center;
+  color: #ffffff;
+  margin-top: 25px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+  width: 100%;
+  font-weight: 200;
+}
+
+.imgInputStyle {
+  width: 130px;
+  height: 110px;
+  border-radius: 15px;
+  background-color: #ffffff;
+  color: #000000;
+  padding: 30px 10px 10px 10px;
+  border: 2px solid #cccccc;
+  font-size: 14px;
+}
+
+#listCard {
+  background-color: #f2f2f2;
+  border-radius: 20px !important;
+  padding: 10px;
+}
+
+#listCardImg {
+  background-color: #ffffff !important;
+  width: 80px !important;
+  height: 80% !important;
+  border-radius: 15px !important;
+  padding: 10px !important;
+}

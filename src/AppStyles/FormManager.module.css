@@ -1,0 +1,52 @@
+.form_managerbtnstyle {
+  border-radius: 25px !important;
+  justify-content: center !important;
+  align-items: center !important;
+  padding-left: 15px !important;
+  padding-right: 15px !important;
+  padding-bottom: 25px !important;
+  width: auto;
+  height: 30px;
+  border: 1px solid #39729b !important;
+  background-color: #39729b !important;
+  color: #ffffff !important;
+  font-size: 9px !important;
+}
+
+.form_managerbtnstyle2 {
+  border-radius: 25px !important;
+  padding-left: 10px !important;
+  padding-right: 10px !important;
+  width: auto;
+  height: 30px;
+  border: 1px solid #39729b !important;
+  background-color: #ffffff !important;
+  color: #000000 !important;
+  font-size: 9px !important;
+}
+
+.form_removebtnstyle {
+  border-radius: 25px !important;
+  justify-content: center !important;
+  align-items: center !important;
+  padding-left: 15px !important;
+  padding-right: 15px !important;
+  width: auto;
+  height: 30px;
+  border: 1px solid #39729b !important;
+  background-color: #39729b !important;
+  color: #ffffff !important;
+  font-size: 12px !important;
+}
+
+.formDetailInputType {
+  margin-left: 30px !important;
+  width: 90% !important;
+  height: 40px !important;
+  border: none !important;
+  border-bottom: 1px dotted #000000 !important;
+}
+
+.custom-classname.react-toggle--checked .react-toggle-track {
+  background-color: #ab199f;
+}

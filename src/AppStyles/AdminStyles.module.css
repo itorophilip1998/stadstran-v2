@@ -1,0 +1,123 @@
+.adminbody {
+  background-color: #b5cdd9 !important;
+  height: 100vh;
+  min-height: 100%;
+  padding-bottom: 0rem;
+}
+
+.adminbody2 {
+  background-color: #b5cdd9 !important;
+  height: 100vh;
+  min-height: 100%;
+  padding-bottom: 3rem;
+}
+
+.adminBrandPagebody {
+  background-color: #ffffff !important;
+  color: black !important;
+  height: 100vh;
+}
+
+.cardAlignMiddle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  border: none !important;
+}
+
+.iconButton {
+  background-color: #ffffff;
+  border: none;
+}
+
+.iconButton2 {
+  background-color: #39729b;
+  border: none;
+  margin-top: 5px;
+  color: white;
+}
+
+.subCatIcon {
+  background: #39729b;
+  padding: 10px;
+  width: 115px;
+  height: 95px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 2em 3em;
+  border-bottom-right-radius: 2em 3em;
+  border-bottom-left-radius: 2em 3em;
+}
+
+.subCatIcon p {
+  text-align: center;
+  color: #ffffff;
+  margin-top: 25px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+  width: 100%;
+  font-weight: 200;
+}
+
+.imgInputStyle {
+  width: 250px;
+  height: 250px;
+  border-radius: 15px;
+  background-color: #ffffff;
+  color: #000000;
+  padding: 60px 10px 10px 10px;
+  border: 2px solid #cccccc;
+  font-size: 14px;
+}
+
+.imgInputStyle2 {
+  width: 150px;
+  height: 150px;
+  border-radius: 15px;
+  background-color: #ffffff;
+  color: #000000;
+  padding: 60px 10px 10px 10px;
+  border: 2px solid #cccccc;
+  font-size: 14px;
+}
+
+.uploadDiv {
+  text-align: center;
+  display: none;
+}
+
+#scrolling_wrapper {
+  overflow-x: auto;
+  display: flex;
+  flex-wrap: nowrap;
+  -webkit-overflow-scrolling: touch;
+}
+
+#scroll_card {
+  display: inline-block;
+  flex: 0 0 auto;
+}
+
+#imgBoxed {
+  width: 100%;
+  height: 100%;
+  float: left;
+  object-fit: scale-down;
+}
+
+#imgBoxed2 {
+  width: 200px;
+  height: 200px;
+  float: center;
+  object-fit: scale-down;
+}
+
+#imgPreviewBox {
+  width: 250px;
+  height: 250px;
+  float: left;
+  object-fit: scale-down;
+}
